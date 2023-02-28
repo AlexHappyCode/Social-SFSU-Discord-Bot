@@ -1,0 +1,13 @@
+version: "2"
+services:
+  bot:
+    build: .
+    volumes:
+      - ./:/home/node/app
+    ports:
+      - "3000:3000"
+    command: "npm run start"
+    environment:
+      - NODE_ENV=development
+    env_file:
+      - .env

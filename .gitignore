@@ -1,4 +1,11 @@
+# IDEs and editors
+.vscode
 config.json
+
+# Node.js
 node_modules/
 /dist
+package-lock.json
+
+# Private keys
 .env
