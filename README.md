@@ -29,4 +29,4 @@ Now put that token aside and do not lose it.
 3. Create an empty text file called `.env` inside the root of the project.
 4. Inside the file write a single line
    ` TOKEN="Token here without quotes"`
-5. Now type `npm run dev` The bot should up and running now.
+5. Now type `npm run dev` The bot should up and running now if you see a messaged that says logged in, inside the console.
