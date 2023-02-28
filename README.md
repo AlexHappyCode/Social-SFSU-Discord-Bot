@@ -1,10 +1,6 @@
 # Social-SFSU-Discord-Bot
 
-<span style="color: #00BBBB; font-size: 30px;">
-
-Development Setup
-
-</span>
+## Development Setup
 
 #### Getting the API Token
 
