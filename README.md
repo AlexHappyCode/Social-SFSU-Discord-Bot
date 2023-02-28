@@ -6,13 +6,16 @@
 
 First we need to get a token that we can use to access the api.
 
-1. Go to `https://discord.com/developers/applications` and inside there, create a bot. For a guide on how to do this. Go to `https://discord.com/developers/docs/getting-started` and follow along until you get to the section called 'Running Your App.` At that point, stop. We just want the token that is available after the bot is created. The token will be in the section labeled Bot:
+1. Go to `https://discord.com/developers/applications` and inside there, create a bot. If you can do that skip to "Setting Up The Node Project.
+2. Go to `https://discord.com/developers/docs/getting-started`
+3. Follow along until you get to the section called 'Running Your App.`
+4. At that point, stop. We just want the token that is available after the bot is created. The token will be in the section labeled Bot:
 
 <center>
 <img src="resources/TokenArea.png" width="300" height="400">
 </center>
 
-Now put that token aside and do not lose it.
+5. Now put that token aside and do not lose it.
 
 ### Setting Up the Node Project
 
